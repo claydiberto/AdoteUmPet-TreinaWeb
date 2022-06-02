@@ -1,12 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
+/pets/node_modules
+/pets/.pnp
 .pnp.js
 
 # testing
-/coverage
+/pets/coverage
 
 # next.js
 /.next/
